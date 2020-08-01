@@ -33,8 +33,7 @@ Yes. Cloth face coverings may slow the spread of the virus as it provides an ext
 Are health workers at risk from a novel coronavirus?
 Yes, they can be, as health care workers come into contact with patients more often than the general public. WHO recommends that health care workers consistently apply appropriate
 What are WHO recommendations for countries?
-WHO encourages all countries to enhance their surveillance for severe acute respiratory infections (SARI), to carefully review any unusual patterns of SARI or pneumonia cases and to notify WHO of any suspected or confirmed case of infection with novel coronavirus.
-Countries are encouraged to continue strengthening their preparedness for health emergencies in line with the International Health Regulations (2005).
+WHO encourages all countries to enhance their surveillance for severe acute respiratory infections (SARI), to carefully review any unusual patterns of SARI or pneumonia cases and to notify WHO of any suspected or confirmed case of infection with novel coronavirus. Countries are encouraged to continue strengthening their preparedness for health emergencies in line with the International Health Regulations (2005).
 Where can I find more information about known coronaviruses?
 For more information on MERS-CoV <a href="http://www.emro.who.int/health-topics/mers-cov/index.html">here</a>, For More information on SARS-CoV <a href="https://www.who.int/csr/sars/en/">here</a>.
 How many coronavirus cases are there?
@@ -45,3 +44,41 @@ How many people have recovered from COVID-19?
 Currently, over 6,500,000 people in the world have recovered, with the USA in the lead with over 1,200,000 recovered cases. For more precise numbers, visit <a href="https://www.worldometers.info/coronavirus/?utm_campaign=homeAdUOA?Si">here</a>.
 How many active coronavirus cases are there?
 There are currently over 4,400,000 active cases in the world, with the USA in the lead with over 1,500,000 active cases. For more precise numbers, visit <a href="https://www.worldometers.info/coronavirus/?utm_campaign=homeAdUOA?Si">here</a>.
+Where can I get tested for coronavirus?
+You can get a viral or antibody test if your health care provider offers it. A viral test tests for current infection while antibody tests test for previous infections. There are also drive through testing stations. To see if you have a drive through testing location near you, visit <a href="https://www.goodrx.com/blog/drive-thru-coronavirus-testing-near-me/">here</a>.
+Is there coronavirus testing?
+You can get a viral or antibody test if your health care provider offers it. A viral test tests for current infection while antibody tests test for previous infections. There are also drive through testing stations. To see if you have a drive through testing location near you, visit <a href="https://www.goodrx.com/blog/drive-thru-coronavirus-testing-near-me/">here</a>.
+How do I get tested for coronavirus?
+You can get a viral or antibody test if your health care provider offers it. A viral test tests for current infection while antibody tests test for previous infections. There are also drive through testing stations. To see if you have a drive through testing location near you, visit <a href="https://www.goodrx.com/blog/drive-thru-coronavirus-testing-near-me/">here</a>.
+How does coronavirus testing work?
+A thin swab is inserted into your nasal passage, and it absorbs the surrounding secretions. The sample is then examined for the coronavirus.
+How does COVID-19 testing work?
+A thin swab is inserted into your nasal passage, and it absorbs the surrounding secretions. The sample is then examined for the coronavirus.
+Who is at higher risk of getting coronavirus?
+Seniors over the age of 85 are at the greatest risk of contracting the virus, but people with other health conditions are also at a higher risk. To check if your medical condition could increase your risk of getting the coronavirus, visit <a href="https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html">here</a>.
+Who is at higher risk of dying from the coronavirus?
+Seniors and people with other health conditions are at a higher risk of dying from COVID-19. 8 out of 10 coronavirus related deaths involve seniors over the age of 65. 
+How long should I wash my hands?
+You should wash your hands for a minimum of 20 seconds, making sure to scrub both sides of your hands, between your fingers, and under your nails. 
+How should I wash my hands?
+You should wash your hands for a minimum of 20 seconds, making sure to scrub both sides of your hands, between your fingers, and under your nails. 
+How can I help?
+You can help by taking all the necessary precautions to ensure that you yourself will not get sick. Stay 6 feet apart at all times and wear your masks. You can also donate to help fund protective gear for front line workers and research on coronavirus. For places to donate, visit <a href="https://www.unicefusa.org/mission/covid-19">here</a>,<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate">here</a>, and <a href="https://www.redcross.org/donate/disaster-donations.html">here</a>.
+What can I do?
+You can help by taking all the necessary precautions to ensure that you yourself will not get sick. Stay 6 feet apart at all times and wear your masks. You can also donate to help fund protective gear for front line workers and research on coronavirus. For places to donate, visit <a href="https://www.unicefusa.org/mission/covid-19">here</a>,<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate">here</a>, and <a href="https://www.redcross.org/donate/disaster-donations.html">here</a>.
+Where did COVID-19 come from?
+COVID-19 was first discovered in China, but specialists have yet to determine the true source of the virus. By looking at the genetic material, scientists have discovered that COVID-19 is most similar to a virus in bats. Although it is commonly believed that COVID-19 was transmitted to humans due to the consumption of bats, there is no evidence that supports that claim.
+Where did COVID-19 originate from?
+COVID-19 was first discovered in China, but specialists have yet to determine the true source of the virus. By looking at the genetic material, scientists have discovered that COVID-19 is most similar to a virus in bats. Although it is commonly believed that COVID-19 was transmitted to humans due to the consumption of bats, there is no evidence that supports that claim.
+Where can I find more information?
+To find more information on COVID-19, visit <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">here</a> and <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2Findex.html">here</a>.
+Can I donate blood?
+The CDC recommends people who are well enough to donate blood to continue doing so, as the need for donated blood is constant. The CDC has provided recommendations that will keep the donor and staff safe, such as spacing donor chairs 6 ft. apart and encouraging donors to schedule appointments ahead of time.
+Is it okay for me to donate blood?
+The CDC recommends people who are well enough to donate blood to continue doing so, as the need for donated blood is constant. The CDC has provided recommendations that will keep the donor and staff safe, such as spacing donor chairs 6 ft. apart and encouraging donors to schedule appointments ahead of time.
+Is it possible to have the flu and COVID-19 at the same time?
+Yes, it is possible to have both at the same time.
+Should I be tested for COVID-19?
+Not everyone needs to be tested for COVID-19. If you believe you have symptoms of COVID-19 and would like to be tested, contact your healthcare provider first.
+Where should I go to have more information on the virus?
+To find more information on COVID-19, visit <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">here</a> and <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2Findex.html">here</a>.

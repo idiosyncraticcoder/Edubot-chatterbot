@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Edubots</title>
+    <link rel="stylesheet" href="../static/mainpage.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Montserrat:wght@100;200;300;400;500&family=Sacramento&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <style>
+      body {
+        text-align:center;
+      }
+    </style>
+    <img src="../static/edubotlogo.png" alt="">
+    <h1><strong>EduBots</strong></h1>
+    <p>ChatBots aiming to educate the public on pressing issues.</p>
+    <hr>
+    <a class="coronabot" href="{{ url_for('getcoronabot') }}">CoronaBot</a>
+    <br>
+    <a class="blmbot" href="{{ url_for('getblmbot') }}">BLMBot</a>
+    <br>
+    <a class="yemenbot" href="{{ url_for('getyemenbot') }}">YemenBot</a>
+  </body>
+</html>

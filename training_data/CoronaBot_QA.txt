@@ -1,0 +1,47 @@
+What is a coronavirus?
+Coronaviruses are a large family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).
+What is a novel coronavirus?
+A novel coronavirus (CoV) is a new strain of coronavirus that has not been previously identified in humans.
+How does the virus spread?
+The virus spreads primarily from person to person, mainly through respiratory droplets produced when an infected person sneezes, coughs, or talks. These droplets can land in the mouths or noses of people nearby or possibly inhaled into the lungs. 
+Can the virus be spread through food?
+Currently, there is no evidence to support transmission of COVID-19 associated with food, according to the CDC. However, it is important to wash your hands with soap and water for at least 20 seconds before handling food.
+Will warm weather stop the outbreak of the coronavirus? 
+It is not yet known whether weather and temperature affect the spread of the virus. There is still much more to be learned about the transmissibility, severity, and other features associated with COVID-19.
+Will warm weather stop the outbreak of COVID-19? 
+It is not yet known whether weather and temperature affect the spread of the virus. There is still much more to be learned about the transmissibility, severity, and other features associated with COVID-19.
+Can humans become infected with a novel coronavirus of animal source?
+Detailed investigations found that SARS-CoV was transmitted from civet cats to humans in China in 2002 and MERS-CoV from dromedary camels to humans in Saudi Arabia in 2012. Several known coronaviruses are circulating in animals that have not yet infected humans. As surveillance improves around the world, more coronaviruses are likely to be identified.
+What are the symptoms of someone infected with a coronavirus?
+It depends on the virus, but common signs include respiratory symptoms, fever, cough, shortness of breath, and breathing difficulties. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure and even death.
+Can coronaviruses be transmitted from person to person?
+Yes, some coronaviruses can be transmitted from person to person, usually after close contact with an infected patient, for example, in a household workplace, or health care center.
+Is there a vaccine for COVID-19?
+Currently, there is no vaccine for COVID-19, as the virus is still fairly new and unknown to humans. It may potentially take years before a vaccine is approved and distributed.
+Is there a treatment for a novel coronavirus?
+There is no specific treatment for disease caused by a novel coronavirus. However, many of the symptoms can be treated and therefore treatment based on the patient�s clinical condition. Moreover, supportive care for infected persons can be highly effective.
+What can I do to protect myself?
+Standard recommendations to reduce exposure to and transmission of a range of illnesses include maintaining basic hand and respiratory hygiene, and safe food practices  and avoiding close contact, when possible, with anyone showing symptoms of respiratory illness such as coughing and sneezing.
+How can I protect myself?
+Standard recommendations to reduce exposure to and transmission of a range of illnesses include maintaining basic hand and respiratory hygiene, and safe food practices  and avoiding close contact, when possible, with anyone showing symptoms of respiratory illness such as coughing and sneezing.
+Should I wear a mask?
+Yes. Cloth face coverings may slow the spread of the virus as it provides an extra layer to help prevent respiratory droplets from traveling in the air and onto other people. In a WHO-backed study, evidence suggests that wearing a face mask reduces the chance of infection by more than 80%. Additional analysis revealed that N95 respirators were 96% effective at protecting workers while other masks were 77% effective.
+Are masks recommended?
+Yes. Cloth face coverings may slow the spread of the virus as it provides an extra layer to help prevent respiratory droplets from traveling in the air and onto other people. In a WHO-backed study, evidence suggests that wearing a face mask reduces the chance of infection by more than 80%. Additional analysis revealed that N95 respirators were 96% effective at protecting workers while other masks were 77% effective.
+Are masks necessary?
+Yes. Cloth face coverings may slow the spread of the virus as it provides an extra layer to help prevent respiratory droplets from traveling in the air and onto other people. In a WHO-backed study, evidence suggests that wearing a face mask reduces the chance of infection by more than 80%. Additional analysis revealed that N95 respirators were 96% effective at protecting workers while other masks were 77% effective.
+Are health workers at risk from a novel coronavirus?
+Yes, they can be, as health care workers come into contact with patients more often than the general public. WHO recommends that health care workers consistently apply appropriate
+What are WHO recommendations for countries?
+WHO encourages all countries to enhance their surveillance for severe acute respiratory infections (SARI), to carefully review any unusual patterns of SARI or pneumonia cases and to notify WHO of any suspected or confirmed case of infection with novel coronavirus.
+Countries are encouraged to continue strengthening their preparedness for health emergencies in line with the International Health Regulations (2005).
+Where can I find more information about known coronaviruses?
+For more information on MERS-CoV <a href="http://www.emro.who.int/health-topics/mers-cov/index.html">here</a>, For More information on SARS-CoV <a href="https://www.who.int/csr/sars/en/">here</a>.
+How many coronavirus cases are there?
+There are currently over 11,000,000 cases in the world, with the USA in the lead with over 2,900,000 cases. For more precise numbers, visit <a href="https://www.worldometers.info/coronavirus/?utm_campaign=homeAdUOA?Si">here</a>.
+How many deaths are there?
+There are currently over 530,000 deaths in the world, with the USA in the lead with over 130,000 deaths. For more precise numbers, visit <a href="https://www.worldometers.info/coronavirus/?utm_campaign=homeAdUOA?Si">here</a>.
+How many people have recovered from COVID-19?
+Currently, over 6,500,000 people in the world have recovered, with the USA in the lead with over 1,200,000 recovered cases. For more precise numbers, visit <a href="https://www.worldometers.info/coronavirus/?utm_campaign=homeAdUOA?Si">here</a>.
+How many active coronavirus cases are there?
+There are currently over 4,400,000 active cases in the world, with the USA in the lead with over 1,500,000 active cases. For more precise numbers, visit <a href="https://www.worldometers.info/coronavirus/?utm_campaign=homeAdUOA?Si">here</a>.
